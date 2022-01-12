@@ -1,0 +1,6 @@
+tailwindcss
+firebase
+react
+npm
+universal-Cookies
+react-router-dom
